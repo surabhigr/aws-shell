@@ -1,10 +1,10 @@
-aws-shell - The interactive productivity booster for the AWS CLI
+🛠aws-shell - The interactive productivity booster for the AWS CLI
 ================================================================
 
 .. image:: https://aws-developer-blog-media.s3-us-west-2.amazonaws.com/cli/Super-Charge-Your-AWS-Command-Line-Experience-with-aws-shell/aws-shell-final.gif
 
 
-Installation
+Installation 🔧
 ============
 
 The aws-shell requires python and `pip`_ to install.
@@ -70,7 +70,7 @@ started is to run the ``configure`` command::
 For more information about configure settings, see the
 `AWS CLI Getting Started Guide`_.
 
-Basic Usage
+Basic Usage 📄
 ===========
 
 The aws-shell accepts the same commands as the AWS CLI, except you don't
@@ -95,7 +95,7 @@ you can try::
     TABLENAMES     Second
     TABLENAMES     Third
 
-Profiles
+Profiles 
 --------
 
 The aws-shell supports AWS CLI profiles.  You have two options to use
@@ -308,7 +308,7 @@ to respond to customer feedback as we continue to iterate
 on the aws-shell.
 
 
-More Information
+More Information 📑
 ================
 
 Below are miscellaneous links for more information:
